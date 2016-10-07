@@ -1,0 +1,14 @@
+body                           { font-size: 10pt; font-family: sans-serif; }
+h1.title                       { font-size: 18pt; }
+table.playlist                 { width: 100%; font-size: 8pt; }
+table.playlist tr              { background-color: #dddddd; }
+table.playlist tr.normal       { background-color: #ffddff; }
+table.playlist tr.now-playing  { background-color: #ccbbee; }
+table.playlist tr td           { padding: 2pt; }
+table.all-playlists            { font-size: 10pt; }
+table.all-playlists tr td + td { padding-left: 12pt; padding-right: 12pt; }
+table.all-playlists td + td    { text-align: center; }
+tr:first-child                 { font-weight: bold; }
+p.toolbar                      { font-weight: bold; text-align: center; }
+p.playlist-toolbar             { font-size: 9pt; text-align: center; }
+p.footer                       { font-style: italic; text-align: right; }
