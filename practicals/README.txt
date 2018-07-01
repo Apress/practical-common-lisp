@@ -34,13 +34,4 @@ Thus to load the test framework code from Chapter 9, you'd type:
 at the REPL. (Note that Chapter31/ contains the code for both Chapters 30 and
 31.)
 
-Alternatively, you can download the Practical Common Lisp, Lisp in a Box
-distribution from:
-
-  http://www.gigamonkeys.com/book/lispbox/
-
-which provides the easy-to install Emacs + SLIME Lisp development environment
-discussed in the book. That distribution contains all the book's code already
-set up to be loaded with ASDF.
-
 --Peter Seibel
